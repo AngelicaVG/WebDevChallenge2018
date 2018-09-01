@@ -1,7 +1,7 @@
 # Welcome!
 I'm very excited to see you've come until here, this challenge is a shorter version of what should be but this time there's some more complicated questions to resolve. The deadline it's this friday 31 at midnight.
 
-If you have any question, comment, whatever, please let me know.
+
 
 # Prepare environment
 * Create a PGP key.
